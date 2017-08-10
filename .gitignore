@@ -3,5 +3,6 @@
 /Files/search.indexes
 /Files/user.lock
 /Files/Docs/docs.checksum
-/QuickLook/
+/QuickLook
+.DS_Store
 /Settings/ui.plist
